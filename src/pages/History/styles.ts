@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { Play } from 'phosphor-react';
 
 export const HistoryCotainer = styled.main`
   flex: 1;
